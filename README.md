@@ -29,5 +29,5 @@
 - Python / Shell Script
 
 ## 成果展示
-![](./docs/images/Pasted%20image%2020260327230900.png)
+![](./docs/images/Pasted%20image%2020260327230914.png)
 *室内场景建图结果（MeshLab 可视化）*
