@@ -1,6 +1,6 @@
 # Viobot2 双目视觉惯性 SLAM 设备使用实践
 
-官网： https://www.hessian-matrix.com/%e4%ba%a7%e5%93%81%e4%b8%ad%e5%bf%83/
+官网： https://www.hessian-matrix.com/%e4%ba%a7%e5%93%81%e4%b8%ad%e5%bf%83/ 
 用户手册： https://baton-doc.readthedocs.io/en/viobot2/index.html
 
 ---
@@ -29,5 +29,5 @@
 - Python / Shell Script
 
 ## 成果展示
-![[Pasted image 20260327230900.png]]
+![](./images/Pasted image 20260327230900.png)
 *室内场景建图结果（MeshLab 可视化）*
